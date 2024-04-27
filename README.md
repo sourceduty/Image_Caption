@@ -4,7 +4,7 @@
 
 Beyond just adding text, "Image Caption" provides a suite of features to modify the appearance of your image captions. You can change the font style to make your caption more expressive or fit a particular design theme. There's also the flexibility to alter the background color of the caption section, enabling you to match or contrast with the overall color scheme of your image. Additionally, the text color can be adjusted, providing further customization to ensure that the caption stands out clearly against its background.
 
-These capabilities make "Image Caption" a versatile tool for anyone looking to add informative or decorative text to their images. Whether you're creating visuals for social media, educational materials, or personal projects, "Image Caption" can help you effectively communicate through enhanced imagery. Would you like to try adding a caption to an image now? If you have an image ready, please upload it, and I will guide you through the process.
+These capabilities make "Image Caption" a versatile tool for anyone looking to add informative or decorative text to their images. Whether you're creating visuals for social media, educational materials, or personal projects, "Image Caption" can help you effectively communicate through enhanced imagery.
 
 #
 ### Example Usage
